@@ -91,9 +91,9 @@ Using ESP-IDF:
 3. ```idf.py monitor```
 
 #### Expected Output
-LED initialized at pin 21 as Output mode
-Turning on LED at pin 21
-Turning off LED at pin 21
-Turning on LED at pin 21
-Turning off LED at pin 21
+LED initialized at pin 21 as Output mode<br>
+Turning on LED at pin 21<br>
+Turning off LED at pin 21<br>
+Turning on LED at pin 21<br>
+Turning off LED at pin 21<br>
 ....
