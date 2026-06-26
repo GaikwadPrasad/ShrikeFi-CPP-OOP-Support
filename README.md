@@ -1,4 +1,4 @@
-# C++ OOP LED Blinking Example for ESP32 / Shrike Fi (FreeRTOS)
+# C++ OOP LED Blinking Inheritance Example for ESP32 / Shrike Fi (FreeRTOS)
 
 ##  Overview
 
