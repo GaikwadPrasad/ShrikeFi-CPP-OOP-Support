@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/prasad-gaikwad/esp-idf_framework/shrike_fi_firmware/C++/inheritance/build/CMakeFiles/bootloader
+/home/prasad-gaikwad/esp-idf_framework/shrike_fi_firmware/C++/inheritance/build/CMakeFiles/bootloader.rule
+/home/prasad-gaikwad/esp-idf_framework/shrike_fi_firmware/C++/inheritance/build/CMakeFiles/bootloader-complete.rule
+/home/prasad-gaikwad/esp-idf_framework/shrike_fi_firmware/C++/inheritance/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/prasad-gaikwad/esp-idf_framework/shrike_fi_firmware/C++/inheritance/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/prasad-gaikwad/esp-idf_framework/shrike_fi_firmware/C++/inheritance/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/prasad-gaikwad/esp-idf_framework/shrike_fi_firmware/C++/inheritance/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/prasad-gaikwad/esp-idf_framework/shrike_fi_firmware/C++/inheritance/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/prasad-gaikwad/esp-idf_framework/shrike_fi_firmware/C++/inheritance/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/prasad-gaikwad/esp-idf_framework/shrike_fi_firmware/C++/inheritance/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
