@@ -86,9 +86,9 @@ BlinkingLED inherits all functionality from LED and extends it with blinking beh
 #### Build and Flash
 Using ESP-IDF:
 
-```idf.py build```
-```idf.py flash```
-```idf.py monitor```
+1. ```idf.py build```
+2. ```idf.py flash```
+3. ```idf.py monitor```
 
 #### Expected Output
 LED initialized at pin 21 as Output mode
